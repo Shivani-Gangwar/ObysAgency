@@ -68,7 +68,7 @@ function loader_animation(){
     tl.from("#nav",{
         opacity:0
     })
-    tl.from(".line h1,#line3 h2",{
+    tl.from(".line h1,#line3 h2,#line3 h3",{
         y:150,
         opacity:0,
         duration:0.6,
